@@ -46,7 +46,7 @@ Cookie::queue('seen_angizeh_ids', json_encode($ids), 14400);
             <input type="hidden" name="longitude" id="longitude">
             <input type="hidden" name="distance" id="distance">
             <button id="submitBtn" disabled type="button" class="bg-gray-400 text-white px-4 py-2 rounded cursor-not-allowed">
-                در حال بررسی موقعیت...
+                در حال بررسی موقعیت. . .
             </button>
         </form>
     </div>
