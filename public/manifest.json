@@ -1,0 +1,17 @@
+{
+  "name": "جشن",
+  "short_name": "جشن",
+  "lang": "fa",
+  "start_url": ".",
+  "display": "standalone",
+  "background_color": "#ffffff",
+  "theme_color": "#C81D11",
+  "description": "جشن",
+  "icons": [
+    {
+      "src": "logo/logo512.png",
+      "sizes": "512x512",
+      "type": "image/png"
+    }
+  ]
+}
